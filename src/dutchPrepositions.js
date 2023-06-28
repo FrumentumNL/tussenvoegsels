@@ -5,6 +5,8 @@
 // - van de
 // - van
 
+// Based on https://nl.wikipedia.org/wiki/Tussenvoegsel
+
 const DutchPrepositons = [
     "aan den ",
     "aan der ",
