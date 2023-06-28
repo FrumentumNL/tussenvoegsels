@@ -1,0 +1,31 @@
+{
+  "name": "tussenvoegsels",
+  "version": "1.0.0",
+  "description": "A library to help you with family name prepositions in Dutch last names.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrumentumNL/tussenvoegsels.git"
+  },
+  "keywords": [
+    "dutch",
+    "nederlands",
+    "tussenvoegsels",
+    "prepositions",
+    "family",
+    "family-name"
+  ],
+  "author": "Noah van der Aa <ndvdaa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrumentumNL/tussenvoegsels/issues"
+  },
+  "homepage": "https://github.com/FrumentumNL/tussenvoegsels#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
